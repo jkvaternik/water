@@ -2,10 +2,38 @@
 <html>
     <head>
         <link rel="stylesheet" type="text/css" href="./style/style.css">
-        <script src="lib/d3.js"></script>
+        <script src="/lib/d3.js"></script>
     </head>
     <body>
-        <div id="chart"></div>
+    	<div style="width: 100%; overflow: hidden;">
+	    	<div id="menu">
+	    		<div>
+		    		<h2>Water</h2>
+		    		<p>Cape Town, London, Sao Paolo, Jakarta, Istanbul, Tokyo, and Mexico City could be facing "Day Zero" &#8212; meaning they will run out of water &#8212; in the next few decades unless their water use radically changes. As global warming continues to take its tolls, the water crisis continues to grow. So one must ask themself, how much water is consumed in products we use everyday?</p>
+		    		<p><i>Hover over a circle to view the product and its consumption between 1996-2005. This data visualization shows animal products in blue and crop products in light blue.</i></p>
+	    		</div>
+	    		<div id="tooltip">Nothing selected!</div>
+	    		<br>
+	    		<p>
+		        	Mekonnen, M.M. and Hoekstra, A.Y. (2010) The green, blue and grey water footprint of farm animals and animal products, 
+		        	<br>
+		        	Value of Water Research Report Series No. 48, UNESCO-IHE, Delft, the Netherlands.
+	        	</p>
+	        	<p>
+		        	Mekonnen, M.M. and Hoekstra, A.Y. (2010) The green, blue and grey water footprint of crops and derived crop products, 
+		        	<br>
+		        	Value of Water Research Report Series No. 47, UNESCO-IHE, Delft, the Netherlands.
+		        	<br>
+		        	<a href="http://www.waterfootprint.org/Reports/Report47-WaterFootprintCrops-Vol1.pdf"> http://www.waterfootprint.org/Reports/Report47-WaterFootprintCrops-Vol1.pdf </a>
+	        	</p>
+	        	<p>
+		        	Vox Explained Netflix, The World Water Crisis
+		        	<br>
+		        	<a href="https://www.vox.com/2018/9/12/17842888/world-water-crisis-day-zero-explained-netflix"> https://www.vox.com/2018/9/12/17842888/world-water-crisis-day-zero-explained-netflix </a>
+	        	</p>
+	    	</div>
+	        <div id="chart"></div>
+        </div>
         <script src="./script.js"></script>
     </body>
 </html>

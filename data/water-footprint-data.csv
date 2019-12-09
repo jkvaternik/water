@@ -1,0 +1,1375 @@
+﻿product,cntry-average,sum,,,average,type
+"Wheat (Durum wheat, Wheat nes and meslin)",1869,2191,1,1,2190.548402,crop
+,92,,2,2,0,crop
+,229,,3,0,0,crop
+Wheat or meslin flour,1892,2217,4,1,2216.591128,crop
+,93,,5,2,0,crop
+,232,,6,0,0,crop
+Wheat bread,1645,1927,7,1,1927.470546,crop
+,81,,8,2,0,crop
+,202,,9,0,0,crop
+Dry pasta,1892,2217,10,1,2216.591128,crop
+,93,,11,2,0,crop
+,232,,12,0,0,crop
+Wheat groats and meal,2083,2441,13,1,2441.341176,crop
+,102,,14,2,0,crop
+,255,,15,0,0,crop
+Wheat pellets,2083,2441,16,1,2441.341176,crop
+,102,,17,2,0,crop
+,255,,18,0,0,crop
+"Wheat, starch",1469,1722,19,1,1721.5619,crop
+,72,,20,2,0,crop
+,180,,21,0,0,crop
+"Wheat gluten, whether or not dried",4286,5022,22,1,5021.75675,crop
+,211,,23,2,0,crop
+,525,,24,0,0,crop
+Rice in the husk (paddy or rough),422,1455,25,1,1454.624125,crop
+,847,1581,26,2,0,crop
+,185,1834,27,0,0,crop
+"Rice, husked (brown)",549,1889,28,1,1889.12224,crop
+,1100,1950,29,2,0,crop
+,241,2072,30,0,0,crop
+"Rice, semi-milled or wholly milled, whether or not polished or glazed",610,2099,31,1,2099.024711,crop
+,1222,2120,32,2,0,crop
+,268,2162,33,0,0,crop
+"Rice, broken",631,2171,34,1,2171.080783,crop
+,1264,2204,35,2,0,crop
+,277,2271,36,0,0,crop
+Rice flour,664,2285,37,1,2285.348193,crop
+,1330,2185,38,2,0,crop
+,291,1984,39,0,0,crop
+Rice groats and meal,563,1939,40,1,1939.498833,crop
+,1129,2303,41,2,0,crop
+,247,1394,42,0,0,crop
+Barley,926,1302,43,1,1301.637707,crop
+,221,1662,44,2,0,crop
+,154,1748,45,0,0,crop
+"Barley, rolled or flaked grains",1287,1808,46,1,1807.830149,crop
+,307,1808,47,2,0,crop
+,214,1808,48,0,0,crop
+"Barley,hulled,pearled,sliced or kibbled",1287,1808,49,1,1807.830149,crop
+,307,1790,50,2,0,crop
+,214,1786,51,0,0,crop
+"Malt, not roasted",1269,1783,52,1,1783.065352,crop
+,303,2100,53,2,0,crop
+,212,2176,54,0,0,crop
+"Malt, roasted",1586,2229,55,1,2228.83169,crop
+,378,836,56,2,0,crop
+,264,504,57,0,0,crop
+Beer made from malt,194,272,58,1,272.2237179,crop
+,46,601,59,2,0,crop
+,32,618,60,0,0,crop
+Maize (corn),522,762,61,1,762.2001269,crop
+,63,762,62,2,0,crop
+,176,762,63,0,0,crop
+Maize (corn) nes,522,762,64,1,762.2001269,crop
+,63,775,65,2,0,crop
+,176,777,66,0,0,crop
+Maize (corn) flour,536,782,67,1,781.5557434,crop
+,65,708,68,2,0,crop
+,181,699,69,0,0,crop
+Maize (corn) groats and meal,462,674,70,1,673.7492248,crop
+,56,774,71,2,0,crop
+,156,786,72,0,0,crop
+"Maize (corn), hulled, pearled, sliced or kibbled",562,820,73,1,819.570029,crop
+,68,972,74,2,0,crop
+,190,991,75,0,0,crop
+Maize (corn) starch,714,1042,76,1,1042.074325,crop
+,87,1406,77,2,0,crop
+,241,1451,78,0,0,crop
+Maize (corn) oil crude,1079,1574,79,1,1573.733421,crop
+,131,1596,80,2,0,crop
+,364,1598,81,0,0,crop
+"Maize (corn) oil and its fractions,refined but not chemically modified",1101,1606,82,1,1605.85043,crop
+,133,3483,83,2,0,crop
+,372,3611,84,0,0,crop
+Rye,2978,3524,85,1,3524.32616,crop
+,262,4269,86,2,0,crop
+,285,4334,87,0,0,crop
+Rye flour,3722,4405,88,1,4405.4077,crop
+,327,1997,89,2,0,crop
+,356,2264,90,0,0,crop
+Oats,1313,2123,91,1,2123.216135,crop
+,595,2673,92,2,0,crop
+,215,2922,93,0,0,crop
+Oat groats and meal,1863,3012,94,1,3011.892535,crop
+,844,2924,95,2,0,crop
+,305,2884,96,0,0,crop
+"Oats, rolled or flaked grains",1775,2870,97,1,2869.504958,crop
+,804,2894,98,2,0,crop
+,291,2905,99,0,0,crop
+"Oats, hulled,pearled,sliced or kibbled",1799,2909,100,1,2908.515253,crop
+,815,4113,101,2,0,crop
+,295,3359,102,0,0,crop
+Millet,3003,3374,103,1,3374.409302,crop
+,61,1431,104,2,0,crop
+,310,1440,105,0,0,crop
+Grain sorghum,1060,1247,106,1,1246.86671,crop
+,70,2931,107,2,0,crop
+,118,3652,108,0,0,crop
+Buckwheat,2743,4003,109,1,4003.340831,crop
+,791,1260,110,2,0,crop
+,469,469,111,0,0,crop
+,,0,112,1,0,crop
+,,0,113,2,0,crop
+,,0,114,0,0,crop
+,,0,115,1,0,crop
+,,0,116,2,0,crop
+,,0,117,0,0,crop
+,,0,118,1,0,crop
+,,0,119,2,0,crop
+,,0,120,0,0,crop
+Canary seed,,0,121,1,0,crop
+,,0,122,2,0,crop
+,,0,123,0,0,crop
+,,0,124,1,0,crop
+,,0,125,2,0,crop
+,,0,126,0,0,crop
+Cereals unmilled nes,,0,127,1,0,crop
+,,0,128,2,0,crop
+,,0,129,0,0,crop
+Cereal flour nes,,0,130,1,0,crop
+,,0,131,2,0,crop
+,,0,132,0,0,crop
+Cereal groats and meal nes,,0,133,1,0,crop
+,,0,134,2,0,crop
+,,0,135,0,0,crop
+Cereal pellets nes,,0,136,1,0,crop
+,,0,137,2,0,crop
+,,0,138,0,0,crop
+"Cereals, rolled or flaked grains nes",,0,139,1,0,crop
+,,0,140,2,0,crop
+,,0,141,0,0,crop
+"Cereals, hulled, pearled, sliced or kibbled nes",,0,142,1,0,crop
+,,0,143,2,0,crop
+,,0,144,0,0,crop
+"Germ of cereals, whole, rolled, flaked or ground",,0,145,1,0,crop
+,,49,146,2,0,crop
+,,138,147,0,0,crop
+"Potatoes, fresh or chilled nes",49,398,148,1,398.1200037,crop
+,89,596,149,2,0,crop
+,260,951,150,0,0,crop
+Tapioca of potatoes,247,1991,151,1,1990.600018,crop
+,444,1843,152,2,0,crop
+,1300,1576,153,0,0,crop
+"Potatoes, frozen",99,796,154,1,796.2400073,crop
+,178,944,155,2,0,crop
+,520,1211,156,0,0,crop
+Potato flour and meal,247,1991,157,1,1990.600018,crop
+,444,1923,158,2,0,crop
+,1300,1802,159,0,0,crop
+Potato flakes,179,1448,160,1,1447.709104,crop
+,323,1528,161,2,0,crop
+,945,1672,162,0,0,crop
+Potato starch,260,2095,163,1,2095.36844,crop
+,467,2045,164,2,0,crop
+,1368,1635,165,0,0,crop
+"Sweet potatoes, fresh or dried, whether or not sliced or pelleted",210,890,166,1,889.6234786,crop
+,57,680,167,2,0,crop
+,623,623,168,0,0,crop
+"Manioc (cassava), fresh or dried, whether or not sliced or pelleted",,0,169,1,0,crop
+,,0,170,2,0,crop
+,,0,171,0,0,crop
+Tapioca of cassava,,0,172,1,0,crop
+,,0,173,2,0,crop
+,,0,174,0,0,crop
+Flour of cassava,,0,175,1,0,crop
+,,0,176,2,0,crop
+,,0,177,0,0,crop
+Dried cassava,,0,178,1,0,crop
+,,0,179,2,0,crop
+,,0,180,0,0,crop
+Manioc (cassava) starch,,0,181,1,0,crop
+,,0,182,2,0,crop
+,,0,183,0,0,crop
+,,0,184,1,0,crop
+,,251,185,2,0,crop
+,,327,186,0,0,crop
+Taro (coco yam),251,1032,187,1,1031.690614,crop
+,76,781,188,2,0,crop
+,705,705,189,0,0,crop
+,,0,190,1,0,crop
+,,0,191,2,0,crop
+,,0,192,0,0,crop
+"Salad beetroot,salsif,celeriac,radish&sim edibl roots,fresh/chilld nes",,0,193,1,0,crop
+,,0,194,2,0,crop
+,,0,195,0,0,crop
+"Arrowroot,salep etc fr o drid whether o not slicd o pelletd&sago pith",,0,196,1,0,crop
+,,0,197,2,0,crop
+,,0,198,0,0,crop
+,,0,199,1,0,crop
+,,0,200,2,0,crop
+,,0,201,0,0,crop
+Flour&meal of sago&of roots or tubers with hi starch or inulin content,,0,202,1,0,crop
+,,174,203,2,0,crop
+,,199,204,0,0,crop
+"Sugar cane, fresh or dried, whether or not ground",174,212,205,1,212.0911549,crop
+,25,1422,206,2,0,crop
+,13,1596,207,0,0,crop
+"Raw sugar, cane",1384,1686,208,1,1685.857249,crop
+,199,1782,209,2,0,crop
+,103,1796,210,0,0,crop
+"Refined sugar,in solid form,containg added flavourg or colourg matter",1481,1803,211,1,1803.055881,crop
+,213,1803,212,2,0,crop
+,110,1803,213,0,0,crop
+"Refined sugar, in solid form, nes",1481,1803,214,1,1803.055881,crop
+,213,1803,215,2,0,crop
+,110,1803,216,0,0,crop
+Maple sugar and maple syrup,1481,1803,217,1,1803.055881,crop
+,213,1803,218,2,0,crop
+,110,1803,219,0,0,crop
+Glucose&glucose syrup nt cntg fruct/cntg in dry state <20% by wt fruct,1481,1803,220,1,1803.055881,crop
+,213,1803,221,2,0,crop
+,110,1803,222,0,0,crop
+Glucose inc syrup cntg in dry state min 20% but <50% by wt of fructose,1481,1803,223,1,1803.055881,crop
+,213,1803,224,2,0,crop
+,110,1803,225,0,0,crop
+"Fructose, chemically pure",1481,1803,226,1,1803.055881,crop
+,213,1803,227,2,0,crop
+,110,1803,228,0,0,crop
+"Fructose&fructose syrup nes,cntg in dry state >50% by wght of fructose",1481,1803,229,1,1803.055881,crop
+,213,760,230,2,0,crop
+,110,610,231,0,0,crop
+Cane molasses,438,533,232,1,532.9371491,crop
+,63,164,233,2,0,crop
+,32,139,234,0,0,crop
+"Sugar beet, fresh or dried, whether or not ground",69,127,235,1,127.1546299,crop
+,38,508,236,2,0,crop
+,20,718,237,0,0,crop
+"Raw sugar, beet",450,831,238,1,831.4002718,crop
+,248,498,239,2,0,crop
+,134,314,240,0,0,crop
+Molasses nes,116,215,241,1,215.1718361,crop
+,64,99,242,2,0,crop
+,35,35,243,0,0,crop
+,,0,244,1,0,crop
+,,0,245,2,0,crop
+,,0,246,0,0,crop
+"Sugar nes, including invert sugar",,0,247,1,0,crop
+,,1216,248,2,0,crop
+,,1644,249,0,0,crop
+"Beans,small red (Adzuki) dried,shelled,whether or not skinned or split",1216,7785,250,1,7784.712634,crop
+,428,7785,251,2,0,crop
+,6141,7785,252,0,0,crop
+"Kidney beans&white pea beans drid shelld,whether o not skinnd o split",1216,7785,253,1,7784.712634,crop
+,428,7785,254,2,0,crop
+,6141,7785,255,0,0,crop
+"Beans dried, shelled, whether or not skinned or split, nes",1216,7785,256,1,7784.712634,crop
+,428,8258,257,2,0,crop
+,6141,8424,258,0,0,crop
+Flour and meal of the dried leguminous vegetables of heading No 07.13,1689,10812,259,1,10812.10088,crop
+,594,9123,260,2,0,crop
+,8529,8529,261,0,0,crop
+"Broad beans&horse beans dried,shelled,whether or not skinned or split",,0,262,1,0,crop
+,,1057,263,2,0,crop
+,,1105,264,0,0,crop
+"Peas dried, shelled, whether or not skinned or split",1057,5946,265,1,5945.823904,crop
+,48,6706,266,2,0,crop
+,4841,6659,267,0,0,crop
+"Chickpeas, dried, shelled, whether or not skinned or split",1818,10157,268,1,10157.13283,crop
+,,10655,269,2,0,crop
+,8339,10655,270,0,0,crop
+"Cow peas, dry",2315,10752,271,1,10752.43348,crop
+,,8437,272,2,0,crop
+,8437,8437,273,0,0,crop
+,,0,274,1,0,crop
+,,1782,275,2,0,crop
+,,1782,276,0,0,crop
+"Lentils dried, shelled, whether or not skinned or split",1782,9517,277,1,9517.386496,crop
+,,7736,278,2,0,crop
+,7736,7736,279,0,0,crop
+,,0,280,1,0,crop
+,,0,281,2,0,crop
+,,0,282,0,0,crop
+,,0,283,1,0,crop
+,,0,284,2,0,crop
+,,0,285,0,0,crop
+,,0,286,1,0,crop
+,,0,287,2,0,crop
+,,0,288,0,0,crop
+"Urd,mung,black/green gram beans drid shelld,whether/not skinnd/split",,0,289,1,0,crop
+,,0,290,2,0,crop
+,,0,291,0,0,crop
+,,0,292,1,0,crop
+,,0,293,2,0,crop
+,,0,294,0,0,crop
+,,0,295,1,0,crop
+,,0,296,2,0,crop
+,,0,297,0,0,crop
+,,0,298,1,0,crop
+,,0,299,2,0,crop
+,,0,300,0,0,crop
+"Chestnuts, fresh or dried, whether or not shelled or peeled",,0,301,1,0,crop
+,,1171,302,2,0,crop
+,,3209,303,0,0,crop
+Almonds in shell fresh or dried,1171,6528,304,1,6527.623105,crop
+,2038,7699,305,2,0,crop
+,3319,9736,306,0,0,crop
+"Almonds,fresh or dried,shelled or peeled",2342,13055,307,1,13055.24621,crop
+,4075,12087,308,2,0,crop
+,6638,9990,309,0,0,crop
+"Walnuts in shell, fresh or dried",1374,6570,310,1,6570.46913,crop
+,1979,7789,311,2,0,crop
+,3218,9543,312,0,0,crop
+"Walnuts, fresh or dried, shelled or peeled",2592,12397,313,1,12397.11157,crop
+,3733,10756,314,2,0,crop
+,6072,9181,315,0,0,crop
+"Pistachios, fresh or dried, whether or not shelled or peeled",951,3454,316,1,3453.512941,crop
+,2158,2503,317,2,0,crop
+,344,344,318,0,0,crop
+,,0,319,1,0,crop
+,,1787,320,2,0,crop
+,,4329,321,0,0,crop
+Hazelnuts or filberts in shell fresh or dried,1787,8372,322,1,8372.064814,crop
+,2542,10159,323,2,0,crop
+,4043,12701,324,0,0,crop
+"Hazelnuts or filberts, fresh or dried, shelled or peeled",3574,16744,325,1,16744.12963,crop
+,5084,13170,326,2,0,crop
+,8086,8086,327,0,0,crop
+,,0,328,1,0,crop
+,,2066,329,2,0,crop
+,,4449,330,0,0,crop
+"Nuts edible, fresh or dried, whether or not shelled or peeled, nes",2066,8470,331,1,8469.550648,crop
+,2382,7964,332,2,0,crop
+,4021,5673,333,0,0,crop
+Soya beans,1560,1662,334,1,1662.306018,crop
+,92,548,335,2,0,crop
+,10,482,336,0,0,crop
+Soya sauce,446,475,337,1,474.9445766,crop
+,26,445,338,2,0,crop
+,3,443,339,0,0,crop
+Soya curd (tofu),416,443,340,1,443.2816048,crop
+,25,2765,341,2,0,crop
+,3,2902,342,0,0,crop
+soybean ingredient into the soymilk,2737,2916,343,1,2916.326348,crop
+,162,2916,344,2,0,crop
+,17,2916,345,0,0,crop
+Soy burger,2737,2916,346,1,2916.326348,crop
+,162,2015,347,2,0,crop
+,17,1961,348,0,0,crop
+Soya bean flour and meals,1836,1956,349,1,1955.654139,crop
+,109,3108,350,2,0,crop
+,11,3176,351,0,0,crop
+"Soya-bean oil crude, whether or not degummed",2988,3183,352,1,3182.80563,crop
+,177,3244,353,2,0,crop
+,18,3247,354,0,0,crop
+"Soya-bean oil and its fractions, refined but not chemically modified",3049,3248,355,1,3247.760847,crop
+,180,1494,356,2,0,crop
+,19,1390,357,0,0,crop
+"Soya-bean oil-cake&oth solid residues,whether or not ground or pellet",1294,1379,358,1,1378.988614,crop
+,77,1342,359,2,0,crop
+,8,1518,360,0,0,crop
+Ground-nuts in shell not roasted or otherwise cooked,1257,1693,361,1,1692.743327,crop
+,253,2231,362,2,0,crop
+,183,2340,363,0,0,crop
+"Ground-nuts shelld,whether or not broken,not roastd or otherwise cookd",1796,2418,364,1,2418.204753,crop
+,362,3957,365,2,0,crop
+,261,4266,366,0,0,crop
+"Ground-nut oil, crude",3334,4490,367,1,4489.76696,crop
+,672,4558,368,2,0,crop
+,484,4572,369,0,0,crop
+Ground-nut oil and its fractions refined but not chemically modified,3402,4581,370,1,4581.394857,crop
+,685,1850,371,2,0,crop
+,494,1300,372,0,0,crop
+"Ground-nut oil-cake&oth solid residues,whether or not ground or pellet",671,903,373,1,902.9721482,crop
+,135,232,374,2,0,crop
+,97,97,375,0,0,crop
+,,0,376,1,0,crop
+,,0,377,2,0,crop
+,,0,378,0,0,crop
+Copra,,0,379,1,0,crop
+,,0,380,2,0,crop
+,,0,381,0,0,crop
+Coconut (husked),,0,382,1,0,crop
+,,0,383,2,0,crop
+,,0,384,0,0,crop
+Coconut (copra) oil crude,,0,385,1,0,crop
+,,0,386,2,0,crop
+,,0,387,0,0,crop
+Coconut (copra) oil&its fractions refined but not chemically modified,,0,388,1,0,crop
+,,0,389,2,0,crop
+,,0,390,0,0,crop
+"Coconut/copra oil-cake&oth solid residues,whether/not ground/pellet",,0,391,1,0,crop
+,,0,392,2,0,crop
+,,0,393,0,0,crop
+"Coconut (coir) fibre, raw",,0,394,1,0,crop
+,,0,395,2,0,crop
+,,0,396,0,0,crop
+"Coconut (coir) fibre,processd nt spun;tow,noils&waste of coconut fib",,0,397,1,0,crop
+,,0,398,2,0,crop
+,,0,399,0,0,crop
+"Palm nuts and kernels, whether or not broken",,0,400,1,0,crop
+,,0,401,2,0,crop
+,,0,402,0,0,crop
+Oil palm fruit,,0,403,1,0,crop
+,,0,404,2,0,crop
+,,0,405,0,0,crop
+"Palm oil, crude",,0,406,1,0,crop
+,,0,407,2,0,crop
+,,0,408,0,0,crop
+Palm oil and its fractions refined but not chemically modified,,0,409,1,0,crop
+,,0,410,2,0,crop
+,,0,411,0,0,crop
+"Palm kernel or babassu oil, crude",,0,412,1,0,crop
+,,0,413,2,0,crop
+,,0,414,0,0,crop
+"Palm kernel/babassu oil their fract,refind but not chemically modifid",,0,415,1,0,crop
+,,0,416,2,0,crop
+,,0,417,0,0,crop
+"Palm nut/kernel oil-cake&oth solid residues,whether/not ground/pellet",,0,418,1,0,crop
+,,454,419,2,0,crop
+,,999,420,0,0,crop
+Olives,454,1074,421,1,1074.102933,crop
+,545,1074,422,2,0,crop
+,75,1074,423,0,0,crop
+"Olives,provisionally preservd but nt suitable f immediate consumption",454,1074,424,1,1074.102933,crop
+,545,2794,425,2,0,crop
+,75,4857,426,0,0,crop
+"Olive oil, virgin",2175,5142,427,1,5141.8111,crop
+,2607,5186,428,2,0,crop
+,360,5239,429,0,0,crop
+Olive oil and its fractions refined but not chemically modified,2219,5247,430,1,5246.74602,crop
+,2660,3995,431,2,0,crop
+,368,2494,432,0,0,crop
+"Oils&thr fract nes obt from olives,ref'd/not,not chem mod,incl blends",967,2287,433,1,2287.035662,crop
+,1160,1320,434,2,0,crop
+,160,160,435,0,0,crop
+"Castor oil seeds, whether or not broken",,0,436,1,0,crop
+,,0,437,2,0,crop
+,,0,438,0,0,crop
+"Castor oil&its fractions,whether/not refind,but not chemically modifid",,0,439,1,0,crop
+,,3142,440,2,0,crop
+,,3256,441,0,0,crop
+"Sunflower seeds, whether or not broken",3142,3640,442,1,3640.054929,crop
+,114,6711,443,2,0,crop
+,384,6822,444,0,0,crop
+"Sunflower-seed or safflower oil, crude",6213,7198,445,1,7197.768109,crop
+,226,7325,446,2,0,crop
+,760,7329,447,0,0,crop
+Sunflower-sed/safflower oil&their fractions refind but nt chem modifid,6339,7345,448,1,7344.661336,crop
+,230,2271,449,2,0,crop
+,775,2086,450,0,0,crop
+"Sunflower sed oil-cake&oth solid residues,whether/not ground/pellet",1265,1466,451,1,1465.893626,crop
+,46,3009,452,2,0,crop
+,155,2984,453,0,0,crop
+"Rape or colza seeds, whether or not broken",2808,3205,454,1,3204.878453,crop
+,21,5609,455,2,0,crop
+,376,5627,456,0,0,crop
+"Rape, colza or mustard oil crude",5212,5948,457,1,5948.427509,crop
+,38,6055,458,2,0,crop
+,698,6056,459,0,0,crop
+"Rape,colza o mustard oil&their fract,refind but not chemically modifid",5319,6070,460,1,6069.823989,crop
+,39,2130,461,2,0,crop
+,712,2101,462,0,0,crop
+"Rape/colza sed oil-cake&oth solid residues,whether/not ground/pellet",1379,1574,463,1,1574.126666,crop
+,10,1541,464,2,0,crop
+,185,2366,465,0,0,crop
+"Safflower seeds, whether or not broken",1346,2523,466,1,2522.882355,crop
+,835,1177,467,2,0,crop
+,342,342,468,0,0,crop
+"Sesamum seeds, whether or not broken",,0,469,1,0,crop
+,,0,470,2,0,crop
+,,0,471,0,0,crop
+"Sesame oil&its fractions whether/not refind,but not chemically modifid",,0,472,1,0,crop
+,,2156,473,2,0,crop
+,,2156,474,0,0,crop
+"Mustard seeds, whether or not broken",2156,2794,475,1,2794.315175,crop
+,,639,476,2,0,crop
+,639,639,477,0,0,crop
+"Poppy seeds, whether or not broken",,0,478,1,0,crop
+,,0,479,2,0,crop
+,,0,480,0,0,crop
+,,0,481,1,0,crop
+,,2114,482,2,0,crop
+,,3017,483,0,0,crop
+Seed cotton,2114,3230,484,1,3230.424528,crop
+,903,1816,485,2,0,crop
+,213,1211,486,0,0,crop
+"Cotton seeds, whether or not broken",699,1068,487,1,1068.138873,crop
+,299,5151,488,2,0,crop
+,71,6895,489,0,0,crop
+Cotton lint,4781,7307,490,1,7307.134396,crop
+,2043,3891,491,2,0,crop
+,483,2431,492,0,0,crop
+Cotton linters,1365,2086,493,1,2086.35938,crop
+,583,2797,494,2,0,crop
+,138,3101,495,0,0,crop
+"Cotton-seed oil crude, whether or not gossypol has been removed",2076,3173,496,1,3173.025921,crop
+,887,3173,497,2,0,crop
+,210,3173,498,0,0,crop
+Cotton-seed and its fractions refined but not chemically modified,2076,3173,499,1,3173.025921,crop
+,887,1548,500,2,0,crop
+,210,854,501,0,0,crop
+"Cotton sed oil-cake&oth solid residues,whether or not ground or pellet",451,690,502,1,689.8407597,crop
+,193,5020,503,2,0,crop
+,46,6870,504,0,0,crop
+"Cotton, not carded or combed",4781,7307,505,1,7307.134396,crop
+,2043,3406,506,2,0,crop
+,483,1739,507,0,0,crop
+Cotton yarn waste (including thread waste),880,1345,508,1,1344.884922,crop
+,376,1785,509,2,0,crop
+,89,1973,510,0,0,crop
+Garnetted stock of cotton,1320,2018,511,1,2017.947012,crop
+,564,2251,512,2,0,crop
+,133,2351,513,0,0,crop
+"Cotton waste, nes",1553,2374,514,1,2374.055308,crop
+,664,5784,515,2,0,crop
+,157,7241,516,0,0,crop
+"Cotton, carded or combed",4963,7586,517,1,7585.512679,crop
+,2121,7609,518,2,0,crop
+,501,7791,519,0,0,crop
+Cotton fabric and finished textiles,4987,8099,520,1,8098.714778,crop
+,2303,5521,521,2,0,crop
+,809,4175,522,0,0,crop
+"Linseed, whether or not broken",2409,3366,523,1,3365.726679,crop
+,957,5258,524,2,0,crop
+,,6010,525,0,0,crop
+"Linseed oil, crude",4301,6010,526,1,6009.532882,crop
+,1708,6097,527,2,0,crop
+,,6132,528,0,0,crop
+"Linseed oil and its fractions, refined but not chemically modified",4389,6132,529,1,6132.17641,crop
+,1743,3177,530,2,0,crop
+,,2004,531,0,0,crop
+"Linseed oil-cake&other solid residues,whether or not ground or pellet",1434,2004,532,1,2003.793921,crop
+,570,570,533,2,0,crop
+,,0,534,0,0,crop
+,,0,535,1,0,crop
+,,0,536,2,0,crop
+,,0,537,0,0,crop
+,,0,538,1,0,crop
+,,0,539,2,0,crop
+,,0,540,0,0,crop
+"Shea nuts (karite nuts), whether or not broken",,0,541,1,0,crop
+,,0,542,2,0,crop
+,,0,543,0,0,crop
+"Oil seeds and oleaginous fruits, nes, whether or not broken",,0,544,1,0,crop
+,,0,545,2,0,crop
+,,0,546,0,0,crop
+"Flours and meals of oil seeds or oleaginous fruits,except mustard,nes",,0,547,1,0,crop
+,,0,548,2,0,crop
+,,0,549,0,0,crop
+"Jojoba oil&its fractions whether/not refind,but not chemically modifid",,0,550,1,0,crop
+,,123,551,2,0,crop
+,,241,552,0,0,crop
+"Cabbages,kohlrabi,kale and sim edible brassicas nes,fresh or chilled",123,301,553,1,301.2365058,crop
+,119,378,554,2,0,crop
+,60,733,555,0,0,crop
+"Globe artichokes, fresh or chilled",200,790,556,1,789.771679,crop
+,474,1543,557,2,0,crop
+,116,2406,558,0,0,crop
+"Asparagus, fresh or chilled",953,2712,559,1,2712.245694,crop
+,1337,1789,560,2,0,crop
+,423,495,561,0,0,crop
+Cabbage lettuce (head lettuce) fresh or chilled,30,113,562,1,112.8663427,crop
+,42,113,563,2,0,crop
+,41,113,564,0,0,crop
+"Lettuce, fresh or chilled nes",30,113,565,1,112.8663427,crop
+,42,143,566,2,0,crop
+,41,137,567,0,0,crop
+"Spinach,N-Z spinach & orache spinach (garden spinach),fresh or chilled",60,184,568,1,184.1014586,crop
+,37,295,569,2,0,crop
+,88,363,570,0,0,crop
+"Spinach, N-Z spinach and orache spinach (garden spinach), frozen",170,526,571,1,526.0041674,crop
+,105,387,572,2,0,crop
+,251,356,573,0,0,crop
+"Tomatoes, fresh or chilled",31,127,574,1,127.0604532,crop
+,74,251,575,2,0,crop
+,22,548,576,0,0,crop
+"Tomato juice, concentrated",155,635,577,1,635.302266,crop
+,372,604,578,2,0,crop
+,109,530,579,0,0,crop
+Tomato paste,124,508,580,1,508.2418128,crop
+,297,462,581,2,0,crop
+,87,350,582,0,0,crop
+Tomato ketchup,77,318,583,1,317.651133,crop
+,186,343,584,2,0,crop
+,54,405,585,0,0,crop
+Tomato puree,103,424,586,1,423.534844,crop
+,248,359,587,2,0,crop
+,72,204,588,0,0,crop
+Peeled tomatoes,39,159,589,1,158.8255665,crop
+,93,739,590,2,0,crop
+,27,2134,591,0,0,crop
+"Tomato, dried",619,2541,592,1,2541.209064,crop
+,1487,1961,593,2,0,crop
+,435,566,594,0,0,crop
+"Tomato juice unfermented&not spirited,whether or not sugared or sweet",39,159,595,1,158.8255665,crop
+,93,281,596,2,0,crop
+,27,270,597,0,0,crop
+"Cauliflowers and headed broccoli, fresh or chilled",161,326,598,1,325.8169926,crop
+,82,326,599,2,0,crop
+,83,326,600,0,0,crop
+"Brussels sprouts, fresh or chilled",161,326,601,1,325.8169926,crop
+,82,317,602,2,0,crop
+,83,266,603,0,0,crop
+"Pumpkins, squash and gourds",152,256,604,1,256.3800874,crop
+,30,290,605,2,0,crop
+,74,401,606,0,0,crop
+"Cucumbers and gherkins, fresh or chilled",186,423,607,1,423.0955857,crop
+,142,423,608,2,0,crop
+,95,423,609,0,0,crop
+"Cucumbers&gherkins provisionally presvd,but nt f immediate consumption",186,423,610,1,423.0955857,crop
+,142,322,611,2,0,crop
+,95,273,612,0,0,crop
+"Aubergines(egg-plants), fresh or chilled",84,226,613,1,226.4306446,crop
+,93,237,614,2,0,crop
+,49,241,615,0,0,crop
+"Peppers of the genus Capsicum or of the genus Pimenta,fresh or chilled",95,249,616,1,249.4150098,crop
+,97,155,617,2,0,crop
+,58,58,618,0,0,crop
+"Onions and shallots, fresh or chilled",,0,619,1,0,crop
+,,53,620,2,0,crop
+,,127,621,0,0,crop
+"Onions,provisionally preservd but nt suitable f immediate consumption",53,159,622,1,159.2851387,crop
+,74,159,623,2,0,crop
+,32,159,624,0,0,crop
+Onions dried but not further prepared,53,159,625,1,159.2851387,crop
+,74,222,626,2,0,crop
+,32,334,627,0,0,crop
+"Garlic, fresh or chilled",116,379,628,1,379.2566936,crop
+,186,710,629,2,0,crop
+,77,1239,630,0,0,crop
+Garlic powder,447,1459,631,1,1458.679591,crop
+,715,1336,632,2,0,crop
+,297,755,633,0,0,crop
+"Beans, shelled or unshelled, fresh or chilled",324,748,634,1,747.8366139,crop
+,134,887,635,2,0,crop
+,290,944,636,0,0,crop
+"Beans, frozen",463,1068,637,1,1068.33802,crop
+,191,855,638,2,0,crop
+,414,775,639,0,0,crop
+"Peas, shelled or unshelled, fresh or chilled",249,525,640,1,525.2675498,crop
+,111,632,641,2,0,crop
+,164,680,642,0,0,crop
+"Peas, frozen",356,750,643,1,750.3822141,crop
+,159,723,644,2,0,crop
+,235,676,645,0,0,crop
+String beans,329,628,646,1,628.0295068,crop
+,111,364,647,2,0,crop
+,187,272,648,0,0,crop
+"Carrots and turnips, fresh or chilled",65,124,649,1,124.2959666,crop
+,20,124,650,2,0,crop
+,39,124,651,0,0,crop
+"Celery, other than celeriac, fresh or chilled",65,124,652,1,124.2959666,crop
+,20,670,653,2,0,crop
+,39,875,654,0,0,crop
+Okra,611,1037,655,1,1036.542519,crop
+,224,622,656,2,0,crop
+,201,630,657,0,0,crop
+"Maize, green",197,533,658,1,533.1790059,crop
+,232,533,659,2,0,crop
+,104,533,660,0,0,crop
+"Sweet corn, frozen",197,533,661,1,533.1790059,crop
+,232,336,662,2,0,crop
+,104,104,663,0,0,crop
+,,0,664,1,0,crop
+,,39,665,2,0,crop
+,,84,666,0,0,crop
+"Vegetables, fresh or chilled nes",39,108,667,1,108.3141738,crop
+,46,125,668,2,0,crop
+,24,144,669,0,0,crop
+"Vegetables, frozen nes",55,155,670,1,154.734534,crop
+,65,138,671,2,0,crop
+,34,119,672,0,0,crop
+"Mixtures of vegetables, frozen",39,108,673,1,108.3141738,crop
+,46,108,674,2,0,crop
+,24,108,675,0,0,crop
+Vegetables nes&mixtures provis presvd but nt f immediate consumptn,39,108,676,1,108.3141738,crop
+,46,180,677,2,0,crop
+,24,265,678,0,0,crop
+"Vegetables and mixtures dried, but not further prepared nes",111,309,679,1,309.4690679,crop
+,130,237,680,2,0,crop
+,69,153,681,0,0,crop
+Vegetable products nes used primarily for human consumption,39,108,682,1,108.3141738,crop
+,46,441,683,2,0,crop
+,24,710,684,0,0,crop
+"Bananas including plantains, fresh or dried",372,762,685,1,762.0111396,crop
+,315,762,686,2,0,crop
+,76,762,687,0,0,crop
+Bananas,372,762,688,1,762.0111396,crop
+,315,390,689,2,0,crop
+,76,76,690,0,0,crop
+,,0,691,1,0,crop
+,,231,692,2,0,crop
+,,289,693,0,0,crop
+"Oranges, fresh or dried",231,332,694,1,331.7777155,crop
+,57,521,695,2,0,crop
+,43,568,696,0,0,crop
+"Orange juice,unfermentd&not spiritd,whether/not sugard/sweet,frozen",421,603,697,1,603.23221,crop
+,104,603,698,2,0,crop
+,78,603,699,0,0,crop
+"Orange juice nes,unfermentd&not spiritd,whether or not sugard or sweet",421,603,700,1,603.23221,crop
+,104,494,701,2,0,crop
+,78,473,702,0,0,crop
+"Mandarins(tang&sats)clementines&wilkgs &sim citrus hybrids,fresh/drid",311,455,703,1,455.0315689,crop
+,84,395,704,2,0,crop
+,60,364,705,0,0,crop
+"Lemons and limes, fresh or dried",251,349,706,1,348.600141,crop
+,52,303,707,2,0,crop
+,45,308,708,0,0,crop
+"Grapefruit, fresh or dried",206,303,709,1,302.7119832,crop
+,57,371,710,2,0,crop
+,40,390,711,0,0,crop
+"Grapefruit juice,unfermentd&not spiritd,whether or not sugard or sweet",274,404,712,1,403.6159776,crop
+,77,354,713,2,0,crop
+,53,338,714,0,0,crop
+"Citrus fruits, fresh or dried, nes",225,328,715,1,328.2240668,crop
+,60,372,716,2,0,crop
+,43,384,717,0,0,crop
+"Peel of citrus fruit/melons (watermelons) fresh,frz,drid/prov presvd",269,393,718,1,392.7525734,crop
+,72,410,719,2,0,crop
+,52,415,720,0,0,crop
+"Citrus fruit juice nes exc mx unferment unspiritd,wthr/nt sug/sweet",286,418,721,1,418.2471335,crop
+,77,418,722,2,0,crop
+,55,418,723,0,0,crop
+"Fruit&veg juice nes (exc mx) unferment unspiritd,whether/not sug/sweet",286,418,724,1,418.2471335,crop
+,77,418,725,2,0,crop
+,55,418,726,0,0,crop
+Mixtures of juices unfermentd&not spiritd whether o not sugard o sweet,286,418,727,1,418.2471335,crop
+,77,280,728,2,0,crop
+,55,447,729,0,0,crop
+"Apples, fresh",148,447,730,1,446.6378474,crop
+,244,1534,731,2,0,crop
+,54,3323,732,0,0,crop
+"Apples, dried",1236,3722,733,1,3721.982061,crop
+,2032,2692,734,2,0,crop
+,453,998,735,0,0,crop
+Apple juice unfermented&not spiritd whether or not sugard or sweetend,206,620,736,1,620.3303435,crop
+,339,541,737,2,0,crop
+,76,391,738,0,0,crop
+"Pears and quinces, fresh",127,360,739,1,359.5002529,crop
+,188,562,740,2,0,crop
+,45,910,741,0,0,crop
+"Apricots, fresh",329,993,742,1,992.6106477,crop
+,536,1798,743,2,0,crop
+,127,3111,744,0,0,crop
+"Apricots, dried",1135,3423,745,1,3422.795337,crop
+,1849,2799,746,2,0,crop
+,439,1640,747,0,0,crop
+Sour cherries,511,1394,748,1,1394.126898,crop
+,690,1411,749,2,0,crop
+,194,1626,750,0,0,crop
+"Cherries, fresh",528,1631,751,1,1630.917257,crop
+,905,1631,752,2,0,crop
+,199,1631,753,0,0,crop
+Cherries provisionally preservd but unsuitable f immediate consumption,528,1631,754,1,1630.917257,crop
+,905,1323,755,2,0,crop
+,199,743,756,0,0,crop
+"Peaches, including nectarines, fresh",220,625,757,1,625.2881412,crop
+,325,712,758,2,0,crop
+,81,880,759,0,0,crop
+"Plums and sloes, fresh",307,909,760,1,909.2188736,crop
+,492,1480,761,2,0,crop
+,110,2394,762,0,0,crop
+"Prunes, dried",878,2598,763,1,2597.76821,crop
+,1406,1720,764,2,0,crop
+,314,314,765,0,0,crop
+,,0,766,1,0,crop
+,,0,767,2,0,crop
+,,0,768,0,0,crop
+Mixtures of edible nuts or dried fruits of this chapter,,0,769,1,0,crop
+,,0,770,2,0,crop
+,,0,771,0,0,crop
+"Apricot,peach/plum stones&kernels nes,usd primly f human consumption",,0,772,1,0,crop
+,,79,773,2,0,crop
+,,133,774,0,0,crop
+"Strawberries, fresh",79,165,775,1,165.3869124,crop
+,54,165,776,2,0,crop
+,32,165,777,0,0,crop
+"Strawberries,uncookd o steamd o boild in water,sweetend o not,frozen",79,165,778,1,165.3869124,crop
+,54,165,779,2,0,crop
+,32,165,780,0,0,crop
+Strawberries provis preservd but unsuitable f immediate consumption,79,165,781,1,165.3869124,crop
+,54,258,782,2,0,crop
+,32,430,783,0,0,crop
+"Raspberries, blackberries, mulberries and loganberries, fresh",171,563,784,1,563.3770837,crop
+,227,563,785,2,0,crop
+,165,563,786,0,0,crop
+"Raspberries,mulberries,etc uncook,steam/boil in water sweetend/nt,froz",171,563,787,1,563.3770837,crop
+,227,392,788,2,0,crop
+,165,165,789,0,0,crop
+,,0,790,1,0,crop
+,,0,791,2,0,crop
+,,0,792,0,0,crop
+"Black, white or red currants and gooseberries, fresh",,0,793,1,0,crop
+,,0,794,2,0,crop
+,,0,795,0,0,crop
+,,0,796,1,0,crop
+,,229,797,2,0,crop
+,,532,798,0,0,crop
+Blueberries,229,753,799,1,752.809884,crop
+,303,610,800,2,0,crop
+,221,421,801,0,0,crop
+"Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",86,283,802,1,283.4928069,crop
+,114,397,803,2,0,crop
+,83,546,804,0,0,crop
+Berries Nes,199,655,805,1,655.1915517,crop
+,264,575,806,2,0,crop
+,192,521,807,0,0,crop
+"Grapes, fresh",120,416,808,1,416.4144576,crop
+,210,775,809,2,0,crop
+,87,1404,810,0,0,crop
+"Grapes, dried",478,1666,811,1,1665.65783,crop
+,839,1347,812,2,0,crop
+,349,788,813,0,0,crop
+"Grape juice (incl grape must) unferment&unspiritd,wthr/nt sug/sweet",159,555,814,1,555.2192768,crop
+,280,567,815,2,0,crop
+,116,587,816,0,0,crop
+"Grape wines, sparkling",171,595,817,1,594.8777965,crop
+,299,563,818,2,0,crop
+,125,507,819,0,0,crop
+"Grape wines nes,incl fort&grape must,unfermntd by add alc in ctnr</=2l",139,484,820,1,484.2028576,crop
+,244,484,821,2,0,crop
+,101,484,822,0,0,crop
+"Grape wines nes,incl fort&grape must,unfermntd by add alc,in ctnr > 2l",139,484,823,1,484.2028576,crop
+,244,484,824,2,0,crop
+,101,484,825,0,0,crop
+"Grape must nes, unfermented, other than that of heading No 20.09",139,484,826,1,484.2028576,crop
+,244,516,827,2,0,crop
+,101,572,828,0,0,crop
+Vermouth&oth grape wines flav w plants o arom subst in ctnr </= 2 l,171,595,829,1,594.8777965,crop
+,299,595,830,2,0,crop
+,125,595,831,0,0,crop
+Vermouth&oth grape wines flav with plants or arom subst in ctnr > 2 l,171,595,832,1,594.8777965,crop
+,299,595,833,2,0,crop
+,125,595,834,0,0,crop
+"Fermented beverages nes (for example, cider, perry, mead, etc)",171,595,835,1,594.8777965,crop
+,299,595,836,2,0,crop
+,125,595,837,0,0,crop
+Spirits obtained by distilling grape wine or grape marc,171,595,838,1,594.8777965,crop
+,299,516,839,2,0,crop
+,125,310,840,0,0,crop
+Watermelons,92,238,841,1,238.4516556,crop
+,94,227,842,2,0,crop
+,53,170,843,0,0,crop
+Other melons (inc. cantaloupes),80,182,844,1,182.244823,crop
+,37,552,845,2,0,crop
+,65,1091,846,0,0,crop
+"Figs, fresh or dried",450,1211,847,1,1211.245033,crop
+,577,3374,848,2,0,crop
+,185,3670,849,0,0,crop
+"Guavas, mangoes and mangosteens, fresh or dried",2613,3805,850,1,3804.904704,crop
+,873,1596,851,2,0,crop
+,320,1322,852,0,0,crop
+"Avocados, fresh or dried",404,1209,853,1,1208.899401,crop
+,599,949,854,2,0,crop
+,206,355,855,0,0,crop
+"Pineapples, fresh or dried",144,187,856,1,186.9262892,crop
+,5,762,857,2,0,crop
+,38,781,858,0,0,crop
+"Pineapple juice,unfermented&not spiritd,whether or not sugard or sweet",719,935,859,1,934.6314462,crop
+,24,533,860,2,0,crop
+,191,509,861,0,0,crop
+"Dates, fresh or dried",317,474,862,1,474.0490707,crop
+,,157,863,2,0,crop
+,157,157,864,0,0,crop
+,,0,865,1,0,crop
+,,195,866,2,0,crop
+,,682,867,0,0,crop
+Kiwi fruit,195,787,868,1,786.9447845,crop
+,487,951,869,2,0,crop
+,105,528,870,0,0,crop
+"Papaws (papayas), fresh",359,475,871,1,474.8524536,crop
+,63,116,872,2,0,crop
+,52,52,873,0,0,crop
+,,0,874,1,0,crop
+,,193,875,2,0,crop
+,,489,876,0,0,crop
+"Fruits, fresh nes",193,556,877,1,555.6836212,crop
+,296,1134,878,2,0,crop
+,67,2021,879,0,0,crop
+"Fruits, dried nes",771,2223,880,1,2222.734485,crop
+,1184,9329,881,2,0,crop
+,269,8146,882,0,0,crop
+"Coffee, not roasted, not decaffeinated",7877,15704,883,1,15703.5046,crop
+,,15704,884,2,0,crop
+,7826,15704,885,0,0,crop
+"Coffee, not roasted, decaffeinated",7877,15704,886,1,15703.5046,crop
+,,17204,887,2,0,crop
+,7826,17204,888,0,0,crop
+"Coffee, roasted, not decaffeinated",9378,18695,889,1,18694.64833,crop
+,,18695,890,2,0,crop
+,9317,18695,891,0,0,crop
+"Coffee, roasted, decaffeinated",9378,18695,892,1,18694.64833,crop
+,,9317,893,2,0,crop
+,9317,9317,894,0,0,crop
+"Cocoa beans, whole or broken, raw or roasted",,0,895,1,0,crop
+,,0,896,2,0,crop
+,,0,897,0,0,crop
+"Cocoa shells, husks, skins and other cocoa waste",,0,898,1,0,crop
+,,0,899,2,0,crop
+,,0,900,0,0,crop
+Cocoa paste not defatted,,0,901,1,0,crop
+,,0,902,2,0,crop
+,,0,903,0,0,crop
+Cocoa paste wholly or partly defatted,,0,904,1,0,crop
+,,0,905,2,0,crop
+,,0,906,0,0,crop
+"Cocoa butter, fat and oil",,0,907,1,0,crop
+,,0,908,2,0,crop
+,,0,909,0,0,crop
+"Cocoa powder, not containing added sugar or other sweetening matter",,0,910,1,0,crop
+,,0,911,2,0,crop
+,,0,912,0,0,crop
+Chocolate,,0,913,1,0,crop
+,,0,914,2,0,crop
+,,0,915,0,0,crop
+"Cocoa powder, containing added sugar or other sweetening matter",,0,916,1,0,crop
+,,0,917,2,0,crop
+,,0,918,0,0,crop
+,,0,919,1,0,crop
+,,0,920,2,0,crop
+,,0,921,0,0,crop
+Green tea (not fermented) in packages not exceeding 3 kg,,0,922,1,0,crop
+,,0,923,2,0,crop
+,,0,924,0,0,crop
+Green tea (not fermented) in packages exceeding 3 kg,,0,925,1,0,crop
+,,0,926,2,0,crop
+,,0,927,0,0,crop
+Black tea (fermented)&partly fermentd tea in packages not exceedg 3 kg,,0,928,1,0,crop
+,,0,929,2,0,crop
+,,0,930,0,0,crop
+Black tea (fermented) & partly fermented tea in packages exceedg 3 kg,,0,931,1,0,crop
+,,917,932,2,0,crop
+,,1817,933,0,0,crop
+"Hop cones, not ground, powdered or pelleted",917,6920,934,1,6919.668557,crop
+,900,6920,935,2,0,crop
+,5103,6920,936,0,0,crop
+"Hop cones, ground, powdered or pelleted and lupulin",917,6920,937,1,6919.668557,crop
+,900,9671,938,2,0,crop
+,5103,12370,939,0,0,crop
+Hop extract,3669,27679,940,1,27678.67423,crop
+,3598,24010,941,2,0,crop
+,20412,20412,942,0,0,crop
+"Pepper of the genus Piper,ex cubeb pepper,neither crushd nor ground",,0,943,1,0,crop
+,,0,944,2,0,crop
+,,0,945,0,0,crop
+"Pepper of the genus Piper, except cubeb pepper, crushed or ground",,0,946,1,0,crop
+,,0,947,2,0,crop
+,,0,948,0,0,crop
+"Fruits of the genus Capsicum or Pimenta, dried, crushed or ground",,0,949,1,0,crop
+,,0,950,2,0,crop
+,,0,951,0,0,crop
+Vanilla beans,,0,952,1,0,crop
+,,0,953,2,0,crop
+,,0,954,0,0,crop
+Cinnamon and cinnamon-tree flowers neither crushed nor ground,,0,955,1,0,crop
+,,0,956,2,0,crop
+,,0,957,0,0,crop
+Cinnamon and cinnamon-tree flowers crushed or ground,,0,958,1,0,crop
+,,0,959,2,0,crop
+,,0,960,0,0,crop
+"Cloves (whole fruit, cloves and stems)",,0,961,1,0,crop
+,,0,962,2,0,crop
+,,0,963,0,0,crop
+"Nutmeg, Mace, Cardamons",,0,964,1,0,crop
+,,0,965,2,0,crop
+,,0,966,0,0,crop
+Anise or badian seeds,,0,967,1,0,crop
+,,0,968,2,0,crop
+,,0,969,0,0,crop
+Coriander seeds,,0,970,1,0,crop
+,,75,971,2,0,crop
+,,104,972,0,0,crop
+Ginger,75,302,973,1,301.7285689,crop
+,30,302,974,2,0,crop
+,197,302,975,0,0,crop
+Turmeric (curcuma),75,302,976,1,301.7285689,crop
+,30,302,977,2,0,crop
+,197,302,978,0,0,crop
+Curry,75,302,979,1,301.7285689,crop
+,30,227,980,2,0,crop
+,197,197,981,0,0,crop
+Mixtures of two/more of the prods of different headgs to this chapter,,0,982,1,0,crop
+,,0,983,2,0,crop
+,,0,984,0,0,crop
+Spices nes,,0,985,1,0,crop
+,,0,986,2,0,crop
+,,0,987,0,0,crop
+,,0,988,1,0,crop
+,,0,989,2,0,crop
+,,0,990,0,0,crop
+"Flax fibre, raw or retted",,0,991,1,0,crop
+,,0,992,2,0,crop
+,,0,993,0,0,crop
+"Flax fibre, broken or scutched",,0,994,1,0,crop
+,,0,995,2,0,crop
+,,0,996,0,0,crop
+"Flax fibre, otherwise processed but not spun",,0,997,1,0,crop
+,,0,998,2,0,crop
+,,0,999,0,0,crop
+Flax tow and waste (including yarn waste and garnetted stock),,0,1000,1,0,crop
+,,0,1001,2,0,crop
+,,0,1002,0,0,crop
+"True hemp fibre (Cannabis sativa l), raw or retted",,0,1003,1,0,crop
+,,0,1004,2,0,crop
+,,0,1005,0,0,crop
+True hemp fibre otherwise processd but not spun;tow&waste of true hemp,,0,1006,1,0,crop
+,,0,1007,2,0,crop
+,,0,1008,0,0,crop
+"Jute and other textile bast fibres, raw or retted",,0,1009,1,0,crop
+,,0,1010,2,0,crop
+,,0,1011,0,0,crop
+"Jute and other tex bast fib,not spun,nes;tow and waste of these fibres",,0,1012,1,0,crop
+,,0,1013,2,0,crop
+,,0,1014,0,0,crop
+,,0,1015,1,0,crop
+,,0,1016,2,0,crop
+,,0,1017,0,0,crop
+"Ramie & other vegetable textile fibers, raw or processed but not spun; tow, noils & waste of these fibres",,0,1018,1,0,crop
+,,0,1019,2,0,crop
+,,0,1020,0,0,crop
+,,0,1021,1,0,crop
+,,0,1022,2,0,crop
+,,0,1023,0,0,crop
+"Sisal and other textile fibres of the genus Agave, raw",,0,1024,1,0,crop
+,,0,1025,2,0,crop
+,,0,1026,0,0,crop
+Sisal textile fibres processed but not spun;tow&waste of sisal fibres,,0,1027,1,0,crop
+,,0,1028,2,0,crop
+,,0,1029,0,0,crop
+,,0,1030,1,0,crop
+,,0,1031,2,0,crop
+,,0,1032,0,0,crop
+"Abaca fibre, raw",,0,1033,1,0,crop
+,,0,1034,2,0,crop
+,,0,1035,0,0,crop
+"Abaca fibre,processed but not spun;tow,noils and waste of abaca fibres",,0,1036,1,0,crop
+,,0,1037,2,0,crop
+,,0,1038,0,0,crop
+Fibre Crops Nes,,0,1039,1,0,crop
+,,0,1040,2,0,crop
+,,0,1041,0,0,crop
+"Vegetable textile fibres nes, raw",,0,1042,1,0,crop
+,,0,1043,2,0,crop
+,,0,1044,0,0,crop
+"Vegetable tex fib nes,processd nt spun;tow,noils&waste of these fibres",,0,1045,1,0,crop
+,,1584,1046,2,0,crop
+,,1653,1047,0,0,crop
+"Tobacco, unmanufactured, not stemmed or stripped",1584,5875,1048,1,5874.78944,crop
+,69,5875,1049,2,0,crop
+,4222,5875,1050,0,0,crop
+"Tobacco, unmanufactured, partly or wholly stemmed or stripped",1584,5875,1051,1,5874.78944,crop
+,69,5875,1052,2,0,crop
+,4222,5875,1053,0,0,crop
+Tobacco refuse,1584,5875,1054,1,5874.78944,crop
+,69,4291,1055,2,0,crop
+,4222,4222,1056,0,0,crop
+,,0,1057,1,0,crop
+,,0,1058,2,0,crop
+,,0,1059,0,0,crop
+"Horses, live pure-bred breeding",33609,37111,1,1,37110.91582,animal
+,2177,37111,2,2,0,animal
+,1325,37111,3,0,0,animal
+"Horses, live except pure-bred breeding",33609,37111,4,1,37110.91582,animal
+,2177,37111,5,2,0,animal
+,1325,37111,6,0,0,animal
+"Asses, mules and hinnies, live",33609,37111,7,1,37110.91582,animal
+,2177,9859,8,2,0,animal
+,1325,7929,9,0,0,animal
+"Bovine, live pure-bred breeding",6357,6964,10,1,6963.877859,animal
+,246,6964,11,2,0,animal
+,360,6964,12,0,0,animal
+"Bovine, live except pure-bred breeding",6357,6964,13,1,6963.877859,animal
+,246,3069,14,2,0,animal
+,360,3192,15,0,0,animal
+"Swine, live pure-bred breeding",2462,3288,16,1,3287.921008,animal
+,369,3288,17,2,0,animal
+,457,3288,18,0,0,animal
+"Swine, live except pure-bred breeding weighing less than 50 kg",2462,3288,19,1,3287.921008,animal
+,369,3288,20,2,0,animal
+,457,3288,21,0,0,animal
+"Swine, live except pure-bred breeding weighing 50 kg or more",2462,3288,22,1,3287.921008,animal
+,369,5532,23,2,0,animal
+,457,5278,24,0,0,animal
+"Sheep, live",4706,4841,25,1,4840.58051,animal
+,115,134,26,2,0,animal
+,19,19,27,0,0,animal
+"Goats, live",0,0,28,1,0,animal
+,0,135,29,2,0,animal
+,0,148,30,0,0,animal
+"Fowls, live domestic weighing not more than 185 g",135,172,31,1,171.955797,animal
+,14,1385,32,2,0,animal
+,24,1507,33,0,0,animal
+"Poultry, live except domestic fowls, weighing not more than 185 g",1348,1720,34,1,1719.55797,animal
+,136,1720,35,2,0,animal
+,236,1720,36,0,0,animal
+"Poultry, live except domestic fowls, weighing more than 185 g",1348,1720,37,1,1719.55797,animal
+,136,9554,38,2,0,animal
+,236,9789,39,0,0,animal
+"Bovine carcasses and half carcasses, fresh or chilled",9182,10073,40,1,10073.33506,animal
+,371,10073,41,2,0,animal
+,520,10073,42,0,0,animal
+"Bovine cuts bone in, fresh or chilled",9182,10073,43,1,10073.33506,animal
+,371,13824,44,2,0,animal
+,520,13978,45,0,0,animal
+"Bovine cuts boneless, fresh or chilled",12933,14191,46,1,14190.61276,animal
+,525,10440,47,2,0,animal
+,733,10286,48,0,0,animal
+"Bovine carcasses and half carcasses, frozen",9182,10073,49,1,10073.33506,animal
+,371,10073,50,2,0,animal
+,520,10073,51,0,0,animal
+"Bovine cuts bone in, frozen",9182,10073,52,1,10073.33506,animal
+,371,13824,53,2,0,animal
+,520,13978,54,0,0,animal
+"Bovine cuts boneless, frozen",12933,14191,55,1,14190.61276,animal
+,525,4252,56,2,0,animal
+,733,4188,57,0,0,animal
+"Swine carcasses and half carcasses, fresh or chilled",2994,4010,58,1,4010.474392,animal
+,461,4905,59,2,0,animal
+,555,5056,60,0,0,animal
+"Hams, shoulders and cuts thereof, of swine bone in, fresh or chilled",3889,5221,61,1,5221.395314,animal
+,611,5434,62,2,0,animal
+,721,5468,63,0,0,animal
+"Swine cuts, fresh or chilled, nes",4102,5507,64,1,5507.499166,animal
+,645,4400,65,2,0,animal
+,761,4216,66,0,0,animal
+"Swine carcasses and half carcasses, frozen",2994,4010,67,1,4010.474392,animal
+,461,4905,68,2,0,animal
+,555,5056,69,0,0,animal
+"Hams, shoulders and cuts thereof, of swine, bone in, frozen",3889,5221,70,1,5221.395314,animal
+,611,5434,71,2,0,animal
+,721,5468,72,0,0,animal
+"Swine cuts, frozen nes",4102,5507,73,1,5507.499166,animal
+,645,6915,74,2,0,animal
+,761,6417,75,0,0,animal
+"Lamb carcasses and half carcasses, fresh or chilled",5509,5678,76,1,5678.185555,animal
+,147,8927,77,2,0,animal
+,22,9012,78,0,0,animal
+"Sheep carcasses and half carcasses, fresh or chilled",8758,9026,79,1,9025.511396,animal
+,232,9026,80,2,0,animal
+,35,9036,81,0,0,animal
+"Sheep cuts, bone in, fresh or chilled",8758,9036,82,1,9035.511396,animal
+,242,11225,83,2,0,animal
+,35,11298,84,0,0,animal
+"Sheep cuts, boneless, fresh or chilled",10948,11307,85,1,11306.88925,animal
+,315,5868,86,2,0,animal
+,44,5700,87,0,0,animal
+"Lamb carcasses and half carcasses, frozen",5509,5678,88,1,5678.185555,animal
+,147,8927,89,2,0,animal
+,22,9012,90,0,0,animal
+"Sheep carcasses and half carcasses, frozen",8758,9026,91,1,9025.511396,animal
+,232,9026,92,2,0,animal
+,35,9036,93,0,0,animal
+"Sheep cuts, bone in, frozen",8758,9036,94,1,9035.511396,animal
+,242,11225,95,2,0,animal
+,35,11298,96,0,0,animal
+"Sheep cuts, boneless, frozen",10948,11307,97,1,11306.88925,animal
+,315,359,98,2,0,animal
+,44,44,99,0,0,animal
+"Goat meat, fresh, chilled or frozen",0,0,100,1,0,animal
+,0,42818,101,2,0,animal
+,0,45630,102,0,0,animal
+"Horse, ass, mule or hinny meat, fresh, chilled or frozen",42818,47318,103,1,47318.10346,animal
+,2811,13971,104,2,0,animal
+,1688,11542,105,0,0,animal
+"Bovine edible offal, fresh or chilled",9472,10391,106,1,10390.54841,animal
+,382,23390,107,2,0,animal
+,537,23915,108,0,0,animal
+"Bovine tongues, edible offal, frozen",22472,24652,109,1,24651.52507,animal
+,906,8799,110,2,0,animal
+,1274,8160,111,0,0,animal
+"Bovine livers, edible offal, frozen",6619,7261,112,1,7261.321516,animal
+,267,11377,113,2,0,animal
+,375,11543,114,0,0,animal
+"Bovine edible offal, frozen nes",10735,11776,115,1,11775.95486,animal
+,433,1845,116,2,0,animal
+,608,1536,117,0,0,animal
+"Swine edible offal, fresh or chilled",804,1077,118,1,1076.875587,animal
+,124,712,119,2,0,animal
+,149,655,120,0,0,animal
+"Swine livers, edible offal, frozen",439,588,121,1,587.7842812,animal
+,68,953,122,2,0,animal
+,81,1009,123,0,0,animal
+"Swine edible offal, frozen nes",804,1077,124,1,1076.875587,animal
+,124,3549,125,2,0,animal
+,149,3512,126,0,0,animal
+"Sheep, goats, asses, mules or hinnies edible offal, fresh or chilled",3276,3376,127,1,3376.417052,animal
+,87,3376,128,2,0,animal
+,13,3376,129,0,0,animal
+"Sheep, goats, asses, mules or hinnies edible offal, frozen",3276,3376,130,1,3376.417052,animal
+,87,1828,131,2,0,animal
+,13,1928,132,0,0,animal
+"Pig fat lean meat free&poultry fat unrenderd,frsh,chilld,frozn or curd",1728,2217,133,1,2217.382012,animal
+,187,4458,134,2,0,animal
+,303,4900,135,0,0,animal
+"Hams, shoulders and cuts thereof, of swine bone in, cured",3968,5333,136,1,5333.056442,animal
+,629,5550,137,2,0,animal
+,736,5585,138,0,0,animal
+"Bellies, streaky and cuts thereof, swine cured",4186,5625,139,1,5624.999149,animal
+,663,5717,140,2,0,animal
+,776,5719,141,0,0,animal
+"Swine meat cured, nes",4278,5736,142,1,5736.391988,animal
+,666,21420,143,2,0,animal
+,793,21571,144,0,0,animal
+Bovine meat cured,19962,21909,145,1,21909.42405,animal
+,816,2594,146,2,0,animal
+,1131,1838,147,0,0,animal
+Milk not concentrated and unsweetened not exceeding 1% fat,647,795,148,1,794.8969907,animal
+,60,816,149,2,0,animal
+,89,818,150,0,0,animal
+Milk not concentrated & unsweetened exceeding 1% not exceeding 6% fat,668,821,151,1,821.3935571,animal
+,62,1356,152,2,0,animal
+,92,1405,153,0,0,animal
+Milk and cream not concentrated and unsweetened exceeding 6% fat,1203,1479,154,1,1478.508403,animal
+,111,3282,155,2,0,animal
+,165,3449,156,0,0,animal
+Milk powder not exceeding 1.5% fat,3007,3696,157,1,3696.271007,animal
+,277,3696,158,2,0,animal
+,413,3696,159,0,0,animal
+Milk and cream powder unsweetened exceeding 1.5% fat,3007,3696,160,1,3696.271007,animal
+,277,3696,161,2,0,animal
+,413,3706,162,0,0,animal
+Milk and cream powder sweetened exceeding 1.5% fat,3007,3706,163,1,3706.271007,animal
+,287,1700,164,2,0,animal
+,413,1505,165,0,0,animal
+"Milk and cream unsweetened, nes",1000,1229,166,1,1229.36213,animal
+,92,1432,167,2,0,animal
+,137,1456,168,0,0,animal
+Milk and cream nes sweetened,1203,1484,169,1,1483.508403,animal
+,116,1033,170,2,0,animal
+,165,986,171,0,0,animal
+"Yogurt concentratd o not,sweetend o not,flavourd o contg fruit o cocoa",752,924,172,1,924.0677517,animal
+,69,1186,173,2,0,animal
+,103,1210,174,0,0,animal
+"Buttermilk,curdled milk & cream,kephir & ferm or acid milk & cream nes",1013,1246,175,1,1245.731364,animal
+,93,642,176,2,0,animal
+,139,587,177,0,0,animal
+Whey whether or not concentrated or sweetened,410,504,178,1,503.990675,animal
+,38,846,179,2,0,animal
+,56,877,180,0,0,animal
+Products consisting of natural milk constituents sweetened or not nes,752,924,181,1,924.0677517,animal
+,69,3691,182,2,0,animal
+,103,3946,183,0,0,animal
+Butter,3519,4326,184,1,4326.034262,animal
+,324,2821,185,2,0,animal
+,483,2682,186,0,0,animal
+"Cheese, fresh (including whey cheese) unfermented, and curd",2014,2476,187,1,2475.606724,animal
+,185,3658,188,2,0,animal
+,276,3783,189,0,0,animal
+"Cheese, grated or powdered, of all kinds",3196,3945,190,1,3945.407499,animal
+,310,3945,191,2,0,animal
+,439,3945,192,0,0,animal
+"Cheese processed, not grated or powdered",3196,3945,193,1,3945.407499,animal
+,310,3945,194,2,0,animal
+,439,3945,195,0,0,animal
+"Cheese, blue-veined",3196,3945,196,1,3945.407499,animal
+,310,3945,197,2,0,animal
+,439,3945,198,0,0,animal
+Cheese nes,3196,3945,199,1,3945.407499,animal
+,310,1955,200,2,0,animal
+,439,1775,201,0,0,animal
+"Eggs, bird, in shell, fresh, preserved or cooked",1206,1566,202,1,1565.858338,animal
+,130,2772,203,2,0,animal
+,230,2922,204,0,0,animal
+Egg yolks dried,2412,3152,205,1,3151.716676,animal
+,281,1946,206,2,0,animal
+,459,1800,207,0,0,animal
+Egg yolks nes,1206,1571,208,1,1570.858338,animal
+,135,2151,209,2,0,animal
+,230,2223,210,0,0,animal
+"Eggs, bird, not in shell, dried",1786,2334,211,1,2333.864205,animal
+,207,1887,212,2,0,animal
+,340,1830,213,0,0,animal
+"Eggs, bird, not in shell nes",1340,1745,214,1,1745.398153,animal
+,150,9347,215,2,0,animal
+,255,10574,216,0,0,animal
+"Bristles, hair and waste of pigs, hogs or boars",8941,11977,217,1,11977.08507,animal
+,1378,74101,218,2,0,animal
+,1658,77389,219,0,0,animal
+Horsehair&waste put up or not as a layer with or without supg material,71065,78533,220,1,78532.8293,animal
+,4666,977740,221,2,0,animal
+,2802,1012196,222,0,0,animal
+"Turkey meat and meat offal prepared or preserved, excluding livers",1728,2217,226,1,2217.382012,animal
+,187,2217,227,2,0,animal
+,303,2217,228,0,0,animal
+"Dom fowl,duck,goose&guinea fowl meat&meat offal prep/presvd exc livers",1728,2217,229,1,2217.382012,animal
+,187,4909,230,2,0,animal
+,303,5422,231,0,0,animal
+Hams and cuts thereof of swine prepared or preserved,4419,5939,232,1,5939.085584,animal
+,701,5488,233,2,0,animal
+,819,5412,234,0,0,animal
+Shoulders and cut thereof of swine prepared or preserved,3968,5328,235,1,5327.954402,animal
+,624,2237,236,2,0,animal
+,736,1749,237,0,0,animal
+"Swine meat&meat offal nes/exc livers/ incl mixtures,prepard o preservd",878,1176,238,1,1175.568562,animal
+,135,16084,239,2,0,animal
+,163,16586,240,0,0,animal
+"Bovine meat and meat offal nes,excluding livers, prepared or preserved",15786,17318,241,1,17317.58068,animal
+,637,7311,242,2,0,animal
+,895,6908,243,0,0,animal
+"Bovine skins, whole, raw",5780,6341,244,1,6340.774506,animal
+,233,7786,245,2,0,animal
+,328,7857,246,0,0,animal
+"Bovine hides, whole, fresh or wet-salted",7225,7938,247,1,7938.468133,animal
+,304,7938,248,2,0,animal
+,410,7938,249,0,0,animal
+"Butts and bends, bovine, fresh or wet-salted",7225,7938,250,1,7938.468133,animal
+,304,7938,251,2,0,animal
+,410,7938,252,0,0,animal
+"Hide sections, bovine, nes, fresh or wet-salted",7225,7938,253,1,7938.468133,animal
+,304,6493,254,2,0,animal
+,410,6423,255,0,0,animal
+"Bovine hides, raw, nes",5780,6341,256,1,6340.774506,animal
+,233,12483,257,2,0,animal
+,328,12731,258,0,0,animal
+"Equine hides and skins, raw",11922,13079,259,1,13078.91306,animal
+,481,4574,260,2,0,animal
+,676,4184,261,0,0,animal
+"Sheep or lamb skins, raw, with wool on, nes",3418,3522,262,1,3522.231901,animal
+,91,3702,263,2,0,animal
+,14,3712,264,0,0,animal
+"Sheep or lamb skins, pickled, without wool on",3597,3713,265,1,3712.875685,animal
+,101,3713,266,2,0,animal
+,15,3713,267,0,0,animal
+"Sheep or lamb skins, raw, o/t pickled, without wool on",3597,3713,268,1,3712.875685,animal
+,101,115,269,2,0,animal
+,15,15,270,0,0,animal
+"Goat or kid hides and skins, raw, nes",0,0,271,1,0,animal
+,0,14450,272,2,0,animal
+,0,15108,273,0,0,animal
+"Bovine skin leather, whole",14450,15927,274,1,15926.93627,animal
+,658,15927,275,2,0,animal
+,819,15917,276,0,0,animal
+"Bovine leather, vegetable pre-tanned, nes",14450,15917,277,1,15916.93627,animal
+,648,15917,278,2,0,animal
+,819,15897,279,0,0,animal
+"Bovine leather, otherwise pre-tanned, nes",14450,15897,280,1,15896.93627,animal
+,628,15897,281,2,0,animal
+,819,15897,282,0,0,animal
+"Bovine and equine leather, tanned or retanned, nes",14450,15897,283,1,15896.93627,animal
+,628,15897,284,2,0,animal
+,819,15937,285,0,0,animal
+"Bovine and equine leather, full/split grains, nes",14450,15937,286,1,15936.93627,animal
+,668,31293,287,2,0,animal
+,819,31902,288,0,0,animal
+"Bovine and equine leather, nes",29806,32772,289,1,32772.28266,animal
+,1277,6963,290,2,0,animal
+,1689,5821,291,0,0,animal
+"Sheep or lamb skin leather, vegetable pre-tanned",3997,4148,292,1,4147.63965,animal
+,134,4148,293,2,0,animal
+,16,4148,294,0,0,animal
+"Sheep or lamb skin leather, otherwise pre-tanned",3997,4148,295,1,4147.63965,animal
+,134,4148,296,2,0,animal
+,16,4148,297,0,0,animal
+"Sheep or lamb skin leather, tanned or retanned, nes",3997,4148,298,1,4147.63965,animal
+,134,4148,299,2,0,animal
+,16,4148,300,0,0,animal
+"Sheep or lamb skin leather, nes",3997,4148,301,1,4147.63965,animal
+,134,151,302,2,0,animal
+,16,16,303,0,0,animal
+"Goat or kid skin leather, vegetable pre-tanned",0,0,304,1,0,animal
+,0,0,305,2,0,animal
+,0,0,306,0,0,animal
+"Goat or kid skin leather, otherwise pre-tanned",0,0,307,1,0,animal
+,0,0,308,2,0,animal
+,0,0,309,0,0,animal
+"Goat or kid skin leather, tanned or retanned, nes",0,0,310,1,0,animal
+,0,0,311,2,0,animal
+,0,0,312,0,0,animal
+"Goat or kid skin leather, nes",0,0,313,1,0,animal
+,0,11921,314,2,0,animal
+,0,13759,315,0,0,animal
+"Swine leather, nes",11921,15970,316,1,15969.69863,animal
+,1837,4048,317,2,0,animal
+,2211,2211,318,0,0,animal
