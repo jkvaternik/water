@@ -1,55 +1,81 @@
-* {
+@import url('https://fonts.googleapis.com/css?family=Lato|Roboto&display=swap');
+
+html {
   box-sizing: border-box;
 }
 
-html, body {
-  margin: 0px;
-  padding: 0px;
-  background-color: #2B699D;
+body {
+  margin: 0;
+  background-color: #205263;
+  font-family: 'Roboto', sans-serif;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
 }
 
 p {
-  font-size: 14px;
-  word-break: break-word;
+  color: #f1f1f1;
+  font-size: 1em;
 }
 
 a {
-  color: lightgrey;
-
+  color: #e8e7ee;
 }
 
-#chart {
-  margin-left: 500px;
-  height: 100vh;
+a:hover {
+  text-decoration: none;
 }
 
-.node:hover{
-  stroke-width: 7px !important;
-  opacity: 1 !important;
+hr {
+  border: 0.5px dashed #f1f1f1;
+}
+
+#menu-container {
+  display: block;
+  float: left;
+  width: 33vw;
+}
+
+#dialog {
+  margin: 30px 0px 30px 30px;
+  padding: 25px 25px;
+  background-color: #4c7695;
+  border-radius: 10px;
+}
+
+#dialog h2 {
+  font-family: 'Lato', sans-serif;
+  margin: 0;
+  color: #f1f1f1;
+}
+
+.tooltip-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 75px;
+  background-color: #c0d8d9;
+  border-radius: 10px;
+  margin-bottom: 16px;
 }
 
 #tooltip {
-  width: 100%;
-  height: 75px;
-  padding: 5px;
-  border-radius: 5px;
-  text-align: center;
-  vertical-align: center;
+  color: #205263;
+  display: inline-block;
   font-size: 14px;
-  background-color: #BCD7ED;
-  color: #5C7E9B;
+  text-align: center;
 }
 
-#menu {
-  width: 450px;
-  height: 50%;
-  margin-left: 25px;
-  margin-top: 25px;
-  padding: 16px;
-  border-radius: 5px;
+#chart {
   float: left;
-  background-color: #1D4567;
-  color: white;
-  font-family: Verdana, Helvetica, Arial, Sans Serif;
+  width: 67vw;
+  height: 115vh;
+}
+
+.node:hover{
+  stroke-width: 3px !important;
+  opacity: 1 !important;
 }
 

@@ -25,7 +25,7 @@ d3.csv("./data/water-footprint-data.csv").then(function(data) {
 
 	var color = d3.scaleOrdinal()
 		.domain(["crop", "animal"])
-		.range(["#98DCE2", "#1882F2"]);
+		.range(["#7bbfc4", "#398490"]);
 
 	/* HANDLE MOUSE INTERACTIVITY */
 	var mouseover = function(d) {
@@ -36,8 +36,8 @@ d3.csv("./data/water-footprint-data.csv").then(function(data) {
 
     var mouseleave = function(d) {
     	d3.select("#tooltip")
-    		.style("font-size", "14px")
-    		.html("Nothing selected!");
+			.style("font-size", "14px")
+			.html("Nothing selected")
     };
 
 	/* CREATE CIRCLE DATA POINTS */
@@ -51,8 +51,8 @@ d3.csv("./data/water-footprint-data.csv").then(function(data) {
 			.attr("cx", width / 2)
 			.attr("cy", height / 2)
 			.style("fill", d => color(d.type))
-			.style("fill-opacity", 0.5)
-			.attr("stroke", "#57E3C3")
+			.style("fill-opacity", 1)
+			.attr("stroke", "#f1f1f1")
 			.style("stroke-width", 1)
 			.on("mouseover", mouseover) 
 			.on("mouseleave", mouseleave);
