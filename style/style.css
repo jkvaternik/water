@@ -71,7 +71,7 @@ hr {
 #chart {
   float: left;
   width: 67vw;
-  height: 115vh;
+  height: 100vh;
 }
 
 .node:hover{

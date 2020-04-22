@@ -48,8 +48,8 @@ d3.csv("./data/water-footprint-data.csv").then(function(data) {
 		.append("circle")
 			.attr("class", "node")
 			.attr("r", d => size(d.average))
-			.attr("cx", width / 2)
-			.attr("cy", height / 2)
+			.attr("cx", (width / 2))
+			.attr("cy", (height / 2))
 			.style("fill", d => color(d.type))
 			.style("fill-opacity", 1)
 			.attr("stroke", "#f1f1f1")
@@ -59,7 +59,7 @@ d3.csv("./data/water-footprint-data.csv").then(function(data) {
 
 	/* HANDLE SIMULATION AT WEBPAGE LANDING */
     var simulation = d3.forceSimulation()
-      	.force("center", d3.forceCenter().x(width / 2).y(height / 2))
+      	.force("center", d3.forceCenter().x((width / 2) + 40).y((height / 2) + 40))
       	.force("charge", d3.forceManyBody().strength(.1))
       	.force("collide", d3.forceCollide().strength(.2).radius(d => (size(d.average)+3)).iterations(2.5)) 
 
